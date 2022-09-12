@@ -2,7 +2,7 @@ baseURL = "https://joshfischer1108.github.io/site/"
 languageCode = "en-us"
 title = "Keeping It Minimal"
 theme = "minimal"
-googleAnalytics = "331572969"
+googleAnalytics = "G-1EP0C03LEX"
 
 [params]
     author = "Josh Fischer"
