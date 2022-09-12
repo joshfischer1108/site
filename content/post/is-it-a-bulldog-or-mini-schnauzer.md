@@ -53,7 +53,7 @@ Running on local URL:  http://127.0.0.1:7860/
 ```
 Once we see this, you should be able to hit that url in your browser to see the following:
 
-![web-view](/img/web-view.png)
+![web-view](/site/img/web-view.png)
 
  This web page attempts to tell you whether you have uploaded a bulldog or a mini schnauzer photo.  But.. What if you wanted to train your own image classifier?  
 
