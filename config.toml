@@ -1,21 +1,20 @@
-baseURL = "http://example.com/"
+baseURL = "https://joshfischer1108.github.io/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Keeping It Minimal"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "331572969"
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
-    showBorder = true
+    author = "Josh Fischer"
+    description = ""
+    githubUsername = "joshfischer1108"
+    accent = "purple"
+    showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
+    highlight = false
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["go", "java", "bash", "python", "javascript"]
 
 [[menu.main]]
     url = "/"
@@ -42,26 +41,22 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:josh@joshfischer.io"
     name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/joshfischer1108/"
     name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/joshfischer1108/"
     name = "fab fa-twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/joshfischer1108/"
     name = "fab fa-linkedin"
     weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
-    weight = 5
