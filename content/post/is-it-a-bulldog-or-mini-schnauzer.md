@@ -2,7 +2,7 @@
 title: "Is It a Bulldog or Mini Schnauzer?  A Fast.ai implementation."
 date: 2022-09-10T11:25:25-05:00
 images:
-- feature-web-view.png
+- img/feature-web-view.png
 draft: false
 ---
 
