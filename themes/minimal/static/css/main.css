@@ -46,9 +46,14 @@ img {
 /* Profile picture */
 
 .profile {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 50%;
+
+    height: 60vh;
+    border-radius: 10%;
+}
+
+.bookPreview {
+     height: 60vh;
+    border-radius: 10%;
 }
 
 /* Colored links */

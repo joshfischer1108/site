@@ -1,4 +1,4 @@
-baseURL = "https://joshfischer1108.github.io/site/"
+baseURL = "https://joshfischer.io/"
 languageCode = "en-us"
 title = "Keeping It Minimal"
 theme = "minimal"
@@ -8,6 +8,7 @@ googleAnalytics = "G-1EP0C03LEX"
     author = "Josh Fischer"
     description = ""
     githubUsername = "joshfischer1108"
+    bookPreview = "img/gss.png"
     accent = "purple"
     showBorder = false
     backgroundColor = "white"
